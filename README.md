@@ -35,7 +35,7 @@ https://www.casio-education.fr/actualites/comment-installer-la-derniere-mise-a-j
 ![image](https://user-images.githubusercontent.com/84912528/119849257-c4f78280-bf0c-11eb-8c42-07582e6381b6.png)
 
 <br/><br/>2.Rendez vous sur le PC, télécharger le programme.py
- ![image](https://user-images.githubusercontent.com/84912528/119843913-44368780-bf08-11eb-9f31-0ce7f80a4de5.png)
+![image](https://user-images.githubusercontent.com/84912528/119853013-19503180-bf10-11eb-976a-1ce1286e178c.png)
 
 <br/><br/>3.Ouvrir avec 7zip ou Winrar : https://www.win-rar.com/
 
