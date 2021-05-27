@@ -7,11 +7,9 @@
 <br/><br/><abbr>
 ## Ce que vous devez rentrer:
 
-  **Vous avez juste à rentrer deux éléments:**
-
->**p** (proposition theorique) qui est un nombre décimal
+**p** (proposition theorique) qui est un nombre décimal
   
->**n** (effectif de l'echentillon) effectif totale.
+**n** (effectif de l'echentillon) effectif totale.
 
 <br/><br/>
 ### WIKI: https://github.com/exuva/exemple.py/wiki
