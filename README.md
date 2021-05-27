@@ -18,7 +18,17 @@ calcul automatique pour l'intervalle de fluctuation (python-math)
 >**n** (effectif de l'echentillon) effectif totale.
 
 
-
+  
+  
+  
+  
+  
+## Comment installer le programme python sur une |CASIO 90+E| & |CASIO 35+E II|
+  
+1.Pour commencer il vous faut **python**, suivez le site officiel de casio en fonction de votre calculatrice: 
+https://www.casio-education.fr/actualites/comment-installer-la-derniere-mise-a-jour-python/
+2.
+  
 <addr><addr><addr><br/><br/><br/>
 **If you have any questions:**
   
