@@ -8,14 +8,14 @@
 ## Ce que vous devez rentrer:
 
 **p** (proposition theorique) qui est un nombre décimal
-  
+
 **n** (effectif de l'echentillon) effectif totale.
 
-<br/><br/>
+<br/><br/><abbr>
 ### WIKI: https://github.com/exuva/exemple.py/wiki
 ### Cours: https://github.com/exuva/intervalle_fluctuation/wiki
   
-<br/><br/><br/>
+<br/><br/><br/><abbr>
 **If you have any questions:**
   
 **My discord:** Mʌrius#2561
