@@ -1,5 +1,13 @@
 # fr_fluctuation_calcul
-calcul automatique pour l'interval de fluctuation (python-math)
+calcul automatique pour l'intervalle de fluctuation (python-math)
+
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/84912528/119824259-003a8700-bef6-11eb-9774-19c80fda18ba.png)
 
 Vous avez juste à rentrer deux éléments:
 
