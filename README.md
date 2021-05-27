@@ -7,7 +7,7 @@ calcul automatique pour l'intervalle de fluctuation (python-math)
 
 
 
-![image](https://user-images.githubusercontent.com/84912528/119824259-003a8700-bef6-11eb-9774-19c80fda18ba.png)
+![image](https://user-images.githubusercontent.com/84912528/119824438-32e47f80-bef6-11eb-996b-b84dbade31bc.png)
 
 Vous avez juste à rentrer deux éléments:
 
