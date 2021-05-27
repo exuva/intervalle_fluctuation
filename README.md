@@ -10,15 +10,16 @@ Calcul automatique pour l'intervalle de fluctuation (python-math)
   
 >**n** (effectif de l'echentillon) effectif totale.
 
-
+<br/><br/>
+### WIKI: https://github.com/exuva/exemple.py/wiki
 ### Cours: https://github.com/exuva/intervalle_fluctuation/wiki
-### wiki: https://github.com/exuva/exemple.py/wiki
-
+  
 <br/><br/><br/>
 **If you have any questions:**
   
 **My discord:** Mʌrius#2561
   
 **My discord server:** https://discord.gg/PvQ6peA
+
   
 
