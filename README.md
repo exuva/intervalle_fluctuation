@@ -1,10 +1,13 @@
 # Intervalle de fluctuation
-Calcul automatique pour l'intervalle de fluctuation (python-math)
+<br/><abbr>**Calcul automatique pour l'intervalle de fluctuation (python-math)**
+<br/><abbr>*Donne l'intervalle de fluctuation.*
+<br/><abbr>
 
 
-## Fonctionnement
+<br/><br/><abbr>
+## Ce que vous devez rentrer:
 
-**Vous avez juste à rentrer deux éléments:**
+  **Vous avez juste à rentrer deux éléments:**
 
 >**p** (proposition theorique) qui est un nombre décimal
   
