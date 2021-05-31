@@ -1,9 +1,8 @@
 import math
 def calc():
     print("fluctuation")
-    # fibre neutre
-    p = float(input("proposition theorique: "))
-    n = float(input("effectif echentillon: "))
+    p = float(input("(p) theorique: "))
+    n = float(input("(n) effectif tot: "))
 
     In1 = (p-1.96*((math.sqrt(p*(1-p)))/math.sqrt(n)))
     In1 = round(In1,2)
@@ -17,5 +16,5 @@ def calc():
     In1r = round(In1r,0)
     In2r = In2 * 100
     In2r = round(In2r,0)
-    print("donc dans 95""%""des cas, la frequence observer de p (f) sera comprise entre ",In1r,"%" "et",In2r,"%")
+    print("donc dans 95""%""des cas, la frequence observer(f) de p sera comprise entre ",In1r,"%" "et",In2r,"%")
 calc()
